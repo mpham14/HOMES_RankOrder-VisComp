@@ -1,0 +1,58 @@
+4.6083 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+11.5521 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+13.9191 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+13.9207 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fdc18ba3bb0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fdbe6244b20>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.9209 	EXP 	window1: mouseVisible = True
+13.9219 	EXP 	window1: mouseVisible = False
+13.9219 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+13.9219 	EXP 	window1: recordFrameIntervals = False
+14.0844 	EXP 	window1: recordFrameIntervals = True
+14.3037 	WARNING 	t of last frame was 23.76ms (=1/42)
+14.4205 	WARNING 	t of last frame was 25.13ms (=1/39)
+14.7206 	WARNING 	t of last frame was 25.83ms (=1/38)
+14.8536 	WARNING 	t of last frame was 23.81ms (=1/41)
+14.9542 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+15.6962 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+19.2750 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.2965 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.3729 	EXP 	Created image1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark1.png', interpolate=True, mask=None, maskParams=None, name='image1', opacity=1.0, ori=0.0, pos=array([-0.5,  0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+19.3898 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.4081 	EXP 	textbox1: autoLog = True
+19.4081 	EXP 	text: autoDraw = True
+23.4215 	EXP 	text: autoDraw = False
+23.4215 	EXP 	text_2: autoDraw = True
+37.3672 	DATA 	Keypress: space
+37.3803 	EXP 	text_2: autoDraw = False
+37.3803 	EXP 	image1: autoDraw = True
+37.3803 	EXP 	textbox1: autoDraw = True
+51.8869 	DATA 	Keypress: 4
+52.3509 	DATA 	Keypress: 3
+52.6294 	DATA 	Keypress: 3
+52.8011 	DATA 	Keypress: 3
+53.2671 	DATA 	Keypress: 2
+53.5243 	DATA 	Keypress: 2
+53.7977 	DATA 	Keypress: 3
+54.0407 	DATA 	Keypress: 3
+54.2440 	DATA 	Keypress: 3
+54.4457 	DATA 	Keypress: 3
+54.6410 	DATA 	Keypress: 3
+54.9945 	DATA 	Keypress: backspace
+55.2197 	DATA 	Keypress: backspace
+55.3823 	DATA 	Keypress: backspace
+55.5461 	DATA 	Keypress: backspace
+55.7093 	DATA 	Keypress: backspace
+55.8946 	DATA 	Keypress: backspace
+56.1147 	DATA 	Keypress: backspace
+56.3244 	DATA 	Keypress: backspace
+56.5248 	DATA 	Keypress: backspace
+56.7302 	DATA 	Keypress: backspace
+57.2212 	DATA 	Keypress: backspace
+57.4096 	DATA 	Keypress: backspace
+60.2661 	DATA 	Keypress: escape
+61.4500 	EXP 	window1: mouseVisible = True

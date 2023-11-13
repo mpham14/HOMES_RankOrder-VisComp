@@ -1,0 +1,48 @@
+5.0647 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+13.7537 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+14.7869 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f885f30bbe0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f882d281b20>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.7871 	EXP 	window1: mouseVisible = True
+14.7880 	EXP 	window1: mouseVisible = False
+14.7880 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.7880 	EXP 	window1: recordFrameIntervals = False
+14.9502 	EXP 	window1: recordFrameIntervals = True
+15.1354 	EXP 	Screen (0) actual frame rate measured at 60.23Hz
+15.1355 	EXP 	window1: recordFrameIntervals = False
+19.2046 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.2279 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.3018 	EXP 	Created image1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark1.png', interpolate=True, mask=None, maskParams=None, name='image1', opacity=1.0, ori=0.0, pos=array([-0.5,  0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+19.3210 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+19.3420 	EXP 	textbox1: autoLog = True
+19.3420 	EXP 	text: autoDraw = True
+23.3427 	EXP 	text: autoDraw = False
+23.3427 	EXP 	text_2: autoDraw = True
+24.9028 	DATA 	Keypress: space
+24.9167 	EXP 	text_2: autoDraw = False
+24.9167 	EXP 	image1: autoDraw = True
+24.9167 	EXP 	textbox1: autoDraw = True
+28.9119 	DATA 	Keypress: 3
+30.5990 	DATA 	Keypress: 4
+31.0747 	DATA 	Keypress: 4
+31.6425 	DATA 	Keypress: 5
+31.9271 	DATA 	Keypress: 5
+32.1453 	DATA 	Keypress: 5
+32.3276 	DATA 	Keypress: 5
+33.2686 	DATA 	Keypress: backspace
+33.4376 	DATA 	Keypress: backspace
+33.5848 	DATA 	Keypress: backspace
+33.7537 	DATA 	Keypress: backspace
+33.9564 	DATA 	Keypress: backspace
+34.1361 	DATA 	Keypress: backspace
+34.3697 	DATA 	Keypress: backspace
+34.7407 	DATA 	Keypress: backspace
+36.7716 	DATA 	Keypress: 2
+37.4991 	DATA 	Keypress: right
+38.9710 	DATA 	Keypress: return
+39.5576 	DATA 	Keypress: return
+40.1717 	DATA 	Keypress: backspace
+40.4562 	DATA 	Keypress: backspace
+41.0097 	DATA 	Keypress: backspace
+43.1808 	DATA 	Keypress: 1
+44.0616 	DATA 	Keypress: 4
+52.0537 	DATA 	Keypress: escape
+53.3397 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,76 @@
+4.3304 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+10.2725 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1680, 1050]. Using actual size
+12.6778 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+12.6789 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7f92faf80c40>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7f92c7a02b80>, multiSample=False, name='window1', numSamples=2, pos=[420.0, 262.5], screen=0, size=array([3360, 2100]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+12.6797 	EXP 	window1: mouseVisible = True
+12.6824 	EXP 	window1: mouseVisible = False
+12.6824 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+12.6825 	EXP 	window1: recordFrameIntervals = False
+12.8454 	EXP 	window1: recordFrameIntervals = True
+12.9276 	EXP 	Screen (0) actual frame rate measured at 59.62Hz
+12.9277 	EXP 	window1: recordFrameIntervals = True
+16.8668 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.8894 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.8951 	EXP 	Created exit_Text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='exit_Text', opacity=1.0, ori=0.0, pos=array([0.  , 0.45]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+16.9416 	EXP 	Created image1 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark1.png', interpolate=True, mask=None, maskParams=None, name='image1', opacity=1.0, ori=0.0, pos=array([-0.5,  0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+16.9809 	EXP 	Created image2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark2.png', interpolate=True, mask=None, maskParams=None, name='image2', opacity=1.0, ori=0.0, pos=array([-0.25,  0.3 ]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.0168 	EXP 	Created image3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark3.png', interpolate=True, mask=None, maskParams=None, name='image3', opacity=1.0, ori=0.0, pos=array([0. , 0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.0524 	EXP 	Created image4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-7.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark4.png', interpolate=True, mask=None, maskParams=None, name='image4', opacity=1.0, ori=0.0, pos=array([0.25, 0.3 ]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.0876 	EXP 	Created image5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-9.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark5.png', interpolate=True, mask=None, maskParams=None, name='image5', opacity=1.0, ori=0.0, pos=array([0.5, 0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.1228 	EXP 	Created image6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-11.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark6.png', interpolate=True, mask=None, maskParams=None, name='image6', opacity=1.0, ori=0.0, pos=array([-0.5,  0. ]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.1573 	EXP 	Created image11 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-13.0, flipHoriz=False, flipVert=False, image='images_RO_VC/Landmark11.png', interpolate=True, mask=None, maskParams=None, name='image11', opacity=1.0, ori=0.0, pos=array([-0.5, -0.3]), size=array([0.2, 0.2]), texRes=128.0, units='height', win=Window(...))
+17.1728 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.1918 	WARNING 	t of last frame was 4264.60ms (=1/0)
+17.1918 	EXP 	textbox1: autoLog = True
+17.1918 	EXP 	textbox2: autoLog = True
+17.1918 	EXP 	textbox3: autoLog = True
+17.1918 	EXP 	textbox4: autoLog = True
+17.1918 	EXP 	textbox5: autoLog = True
+17.1918 	EXP 	textbox6: autoLog = True
+17.1918 	EXP 	textbox11: autoLog = True
+17.1918 	EXP 	text: autoDraw = True
+17.2128 	WARNING 	t of last frame was 20.96ms (=1/47)
+17.4932 	WARNING 	t of last frame was 22.01ms (=1/45)
+17.5310 	WARNING 	t of last frame was 21.01ms (=1/47)
+17.5705 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+17.6958 	EXP 	text: autoDraw = False
+17.6958 	EXP 	text_2: autoDraw = True
+18.3817 	DATA 	Keypress: space
+18.4106 	EXP 	text_2: autoDraw = False
+18.4106 	EXP 	exit_Text: autoDraw = True
+18.4106 	EXP 	image1: autoDraw = True
+18.4106 	EXP 	textbox1: autoDraw = True
+18.4106 	EXP 	image2: autoDraw = True
+18.4106 	EXP 	textbox2: autoDraw = True
+18.4106 	EXP 	image3: autoDraw = True
+18.4106 	EXP 	textbox3: autoDraw = True
+18.4106 	EXP 	image4: autoDraw = True
+18.4106 	EXP 	textbox4: autoDraw = True
+18.4106 	EXP 	image5: autoDraw = True
+18.4106 	EXP 	textbox5: autoDraw = True
+18.4106 	EXP 	image6: autoDraw = True
+18.4106 	EXP 	textbox6: autoDraw = True
+18.4106 	EXP 	image11: autoDraw = True
+18.4106 	EXP 	textbox11: autoDraw = True
+20.2608 	DATA 	Keypress: return
+20.2733 	EXP 	exit_Text: autoDraw = False
+20.2733 	EXP 	image1: autoDraw = False
+20.2733 	EXP 	textbox1: autoDraw = False
+20.2733 	EXP 	image2: autoDraw = False
+20.2733 	EXP 	textbox2: autoDraw = False
+20.2733 	EXP 	image3: autoDraw = False
+20.2733 	EXP 	textbox3: autoDraw = False
+20.2733 	EXP 	image4: autoDraw = False
+20.2733 	EXP 	textbox4: autoDraw = False
+20.2733 	EXP 	image5: autoDraw = False
+20.2733 	EXP 	textbox5: autoDraw = False
+20.2733 	EXP 	image6: autoDraw = False
+20.2733 	EXP 	textbox6: autoDraw = False
+20.2733 	EXP 	image11: autoDraw = False
+20.2733 	EXP 	textbox11: autoDraw = False
+20.2733 	EXP 	text_3: autoDraw = True
+24.2841 	EXP 	text_3: autoDraw = False
+25.9710 	EXP 	window1: mouseVisible = True
